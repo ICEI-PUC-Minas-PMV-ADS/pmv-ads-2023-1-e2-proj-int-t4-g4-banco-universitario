@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# BancoUni
 
-`CURSO`
+`Tec. Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto`
 
-`SEMESTRE`
+`2º - 2023`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
