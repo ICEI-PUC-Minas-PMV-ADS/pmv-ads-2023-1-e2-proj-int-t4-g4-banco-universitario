@@ -92,6 +92,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Enzo Eduardo |Receber transferências bancárias de pessoas em outras contas e/ou bancos|para que sua mesada chegue até ele.|
 ## 2.3 - Requisitos
 
+Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
+
+- `Requisitos Funcionais
+ (RF)`: correspondem a uma funcionalidade que deve estar presente na
+  plataforma (ex: cadastro de usuário).
+- `Requisitos Não Funcionais
+  (RNF)`: correspondem a uma característica técnica, seja de usabilidade,
+  desempenho, confiabilidade, segurança ou outro (ex: suporte a
+  dispositivos iOS e Android).
+
+Lembrando que cada requisito deve corresponder à uma e somente uma
+característica alvo da sua solução. Além disso, certifique-se de que
+todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### 2.3.1 - Requisitos Funcionais
@@ -125,22 +139,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-09|	O sistema deverá ser Consistente e Padronizado por inteiro	|Alta|
 |RNF-10|	O sistema deve ser seguro e passar confiança para os usuário.	|Média|
 |RNF-11|	O sistema deve permitir recuperar senha através do E-mail ou Telefone celular.	|Baixa|
-
-Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-
-Lembrando que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## 2.4 - Restrições
 
