@@ -94,5 +94,13 @@ As relações de trabalho serão desenvolvidas em home office, e as entregas ser
 |Gerenciamento do projeto|Trello e Teams| https://trello.com/b/DaT7e2zl/projeto-banco-universit%C3%A1rio |
 
 
-O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `Draw.io` e `MarvelApp` por melhor captar as necessidades da nossa solução.
+O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `draw.io` e `MarvelApp` por melhor captar as necessidades da nossa solução.
+
+Usando [draw.io](https://diagrams.net):
+>
+>Abra o site https://diagrams.net; ou faça download pelo [Link](https://github.com/jgraph/drawio-desktop/releases)
+>
+>Faça [Download](../docs/UML/casos-de-uso-bancoUni.drawio) do nosso arquivo `.drawio`;
+>
+>Vá em `Start now` >>> `Abrir diagrama existente`
 
