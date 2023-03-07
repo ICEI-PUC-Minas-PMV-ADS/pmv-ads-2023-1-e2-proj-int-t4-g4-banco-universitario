@@ -168,4 +168,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
 
 ![casos-de-uso](./img/casos-de-uso-bancoUni.jpg)
-
+<p align="center"> Casos de uso do projeto - feito com a ferramenta draw.io</p>

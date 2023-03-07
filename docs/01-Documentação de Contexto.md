@@ -10,10 +10,6 @@ A tecnologia expandiu o pensamento nas mais diversas áreas de negócios. No set
 ## 1.1 - Problema
 Como a utilização de um sistema de banco digital pode facilitar o dia a dia dos estudantes brasileiros, proporcionando melhor versatilidade na entrega de oportunidades financeiras voltadas a esse público em específico?
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## 1.2 - Objetivos
 
@@ -25,9 +21,6 @@ O objetivo geral deste projeto é desenvolver um sistema de banco virtual voltad
     - Disponibilizar para os usuários descontos diversos focados no público     universitário do país;
     - Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## 1.3 - Justificativa
 
@@ -35,16 +28,7 @@ As condições financeiras da maioria dos universitários são limitadas, princi
 
 Destarte, os serviços oferecidos pela fintech precisam ser financeiramente acessíveis para esse público. A manutenção da conta sem taxas e o cartão de crédito sem anuidades são alguns exemplos. Diferentemente de um banco tradicional, uma Fintech não precisa de muitos funcionários, nem agências físicas espalhadas pelo país, pois têm  seu funcionamento pautado no meio eletrônico, o que traz uma redução drástica nos seus custos. A eficiência vem consoante com a tecnologia (OLIVEIRA; 2019).
 
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## 1.4 - Público-Alvo
 
 O público alvo deste projeto são estudantes maiores de 18 anos que se interessem por uma ferramenta bancária prática e repleta de benefícios e descontos exclusivos para o segmento estudantil.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)

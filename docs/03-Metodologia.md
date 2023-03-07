@@ -60,11 +60,6 @@ A equipe está organizada da seguinte maneira:
 - `Equipe de Design`
     - Diana Santiago Oliveira dos Santos
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### 3.3 - Processo
 
 Para a organização da equipe e a distribuição de tarefas foi escolhido o Trello, que se encontra estruturado da seguinte maneira:
@@ -75,12 +70,7 @@ Para a organização da equipe e a distribuição de tarefas foi escolhido o Tre
 - `Ajuste necessário` - Avaliação feita da lista “Feito” para alguns sprints que precisam ser revistos ou que apresentaram com algum erro durante o processo de revisão.
 
 ![Trello](./img/trello-grupo.png)
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+<p align="center"> Tela do ambiente Trello usado pelo grupo</p>
 
 ### 3.4 - Ferramentas
 
@@ -96,7 +86,7 @@ As relações de trabalho serão desenvolvidas em home office, e as entregas ser
 
 O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `draw.io` e `MarvelApp` por melhor captar as necessidades da nossa solução.
 
-Usando [draw.io](https://diagrams.net):
+### Usando [draw.io](https://diagrams.net):
 >
 >Abra o site https://diagrams.net; ou faça download pelo [Link](https://github.com/jgraph/drawio-desktop/releases)
 >
