@@ -2,25 +2,76 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Levantamos a necessidade da criação de um sistema que atendesse às demandas financeiras de estudantes e universitários. Os membros da equipe passaram alguns dias em estabelecimentos a fim de entender, através de observações e entrevistas, quais eram os problemas enfrentados no dia a dia de um estudante universitário no que diz respeito a sua vida financeira e seus desejos em conseguir descontos especiais em empresas e softwares diversos. 
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+***
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+### **João Astolfindo**
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Idade**: 37
+
+**Formação e ocupação**: Empresário no ramo de gastronomia há mais de 10 anos em busca de seguir o sonho de ser professor de Geografia.
+
+**Objetivos**: João almeja se formar como Geógrafo e deseja realizar uma transição radical de carreira.
+
+**Motivações**: Sua maior motivação é a paixão por viagens e lugares novos
+
+**Medos**: Possui receio de não conseguir administrar e guardar dinheiro suficiente para a mudança de carreira de forma segura. 
+
+**Hobbies**: Sua paixão por diferentes culturas o direcionaram a cursar Geografia.
+
+***
+
+### **Ana Carolina**
+
+**Idade:** 24
+
+**Formação e ocupação:** Estudante bolsista do terceiro ano de direito em uma excelente faculdade privada e revendedora de cosméticos.
+
+**Objetivos:** Ana deseja se tornar uma advogada renomada e trabalhar em um grande escritório em São Paulo.
+
+**Motivações:** Sua maior motivação é a família.
+
+**Medos:** Possui receio de não  conseguir se manter até o término da faculdade.
+
+**Hobbies:** Ama viajar e assistir séries criminais.
+
+***
+
+### **Julia Truliety**
+
+**Idade:** 46
+
+**Formação e ocupação:** Estudante de Pedagogia no período da noite e trabalha como empregada doméstica.
+
+**Objetivos:** Julia deseja se tornar uma professora do jardim de infância.
+
+**Motivações:** O seu grande alicerce é a família. Julia tem o sonho de visitar seu filho que está morando no Canadá há 2 anos.
+
+**Medos:** Possui receio de não conseguir se manter até o término da faculdade.
+
+**História e Hobbies:** Ama crianças e educação infantil.
+
+***
+
+### **Enzo Eduardo**
+
+**Idade:** 19
+
+**Formação e ocupação:** Estudante de Medicina em período integral
+
+**Objetivos:** Enzo deseja se tornar um médico do programa Médicos sem Fronteiras.
+
+**Motivações:** O seu grande sonho é se tornar médico. Ele também ama video games.
+
+**Medos:** Possui receio de se manter dependente financeiramente até o término da faculdade.
+
+**Hobbies:** Ama jogar online
+
+***
 
 ## Histórias de Usuários
 
