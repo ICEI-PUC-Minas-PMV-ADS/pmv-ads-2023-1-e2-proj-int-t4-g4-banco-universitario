@@ -2,7 +2,7 @@
 
 `Tec. Análise e Desenvolvimento de Sistemas`
 
-`Projeto`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
 
 `2º - 2023`
 
@@ -10,14 +10,17 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Diana Santiago Oliveira dos Santos
+* Elísia Resende Valim Ferrari
+* Geraldo Homero do Couto Neto
+* Hugo César Candian Ferreira
+* Pedro Victor de Souza Fidelis
+
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
