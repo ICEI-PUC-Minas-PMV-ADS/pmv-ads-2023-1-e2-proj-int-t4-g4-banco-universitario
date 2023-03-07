@@ -1,11 +1,10 @@
-# Especificações do Projeto
+# 2 - Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Levantamos a necessidade da criação de um sistema que atendesse às demandas financeiras de estudantes e universitários. Os membros da equipe passaram alguns dias em estabelecimentos a fim de entender, através de observações e entrevistas, quais eram os problemas enfrentados no dia a dia de um estudante universitário no que diz respeito a sua vida financeira e seus desejos em conseguir descontos especiais em empresas e softwares diversos. 
 
 
-## Personas
+## 2.1 - Personas
 
 ***
 
@@ -73,44 +72,61 @@ Levantamos a necessidade da criação de um sistema que atendesse às demandas f
 
 ***
 
-## Histórias de Usuários
+## 2.2 - Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`   |
+|--------------------|------------------------------------|--------------------------|
+|João Astolfindo| conseguir economizar com tarifas bancárias e ter acesso a descontos de estudantes| para guardar dinheiro para os livros do próximo semestre |
+|João Astolfindo | Ter a visibilidade do saldo em conta e gastos realizados em tempo real| gerenciar meus rendimentos de forma eficiente|
+|João Astolfindo | Ter a possibilidade de solicitar empréstimos | para ter maior segurança financeira no momento da transição de carreira.|
+|João Astolfindo |Realizar pagamento de boleto|efetuar de forma simples o pagamento das suas principais contas de consumo|
+|Ana Carolina|Visualizar de forma simples todos os lançamentos feitos em conta |gerenciar e manter registro das vendas de cosméticos.|
+|Ana Carolina|Poder solicitar empréstimo a juros compatíveis com o mercado financeiro|para enfrentar os momentos mais complicados financeiramente.|
+|Ana Carolina|Filtrar o histórico de transações nos  últimos 30 dias |para fazer o controle de todas as entradas e saídas no mês e fazer a programação de gastos para o próximo mês.|
+|Ana Carolina|Fechar e visualizar os detalhes da conta|agilizar o tempo de finalização e pagamento do atendimento recebido.|
+|Julia Truliety |Realizar transferências internacionais |enviar dinheiro para meu filho que mora no Canadá|
+|Julia Truliety |Descontos em passagens áreas|para realizar o sonho de visitar seu filho no Canadá|
+|Enzo Eduardo |Conseguir utilizar cartão de cŕedito online para compras de jogos pela internet |comprar pela internet de forma segura|
+|Enzo Eduardo |Receber transferências bancárias de pessoas em outras contas e/ou bancos|para que sua mesada chegue até ele.|
+## 2.3 - Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais
+### 2.3.1 - Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01|O sistema deve permitir que o usuário realize o cadastro.|Alta|
+|RF-02| O sistema deve permitir ao usuário criar uma conta junto ao banco.|Alta| 
+|RF-03| O sistema deve permitir ao usuário fazer transações bancárias essenciais.|Alta|
+|RF-04| O sistema deve permitir o encerramento da conta.|Alta|
+|RF-05|O sistema deve disponibilizar lista de descontos e suas respectivas empresas para os estudantes devidamente cadastrados no sistema.|Alta|
+|RF-06| O sistema deve permitir ao usuário fazer transferência entre contas de bancos diferentes.|Média|
+|RF-07| O sistema deve permitir a solicitação de empréstimo.|Baixa| 
+|RF-08| O sistema deve permitir a solicitação de cartão de cŕedito.|Baixa|
+|RF-09| O sistema deve permitir realizar pagamento de contas diversas por meio de boleto bancário ou PIX.|Média|
+|RF-10|O sistema deve disponibilizar aplicativo e/ou site para o acesso dos usuários.|Alta|
 
 
-### Requisitos não Funcionais
+
+### 2.3.2 - Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-01|	O sistema deve fornecer descrição de cada produto/desconto selecionado pelo usuário.|	Baixa|
+|RNF-02|  Os produtos/descontos devem ser separados por categorias.	|Média|
+|RNF-03|	Usuários sem confirmação de estudantes devem ter acesso a descontos diferentes aos de estudantes	|Alta|
+|RNF-04|	O sistema deve estar em conformidade com as regulamentações bancárias locais.	|Alta|
+|RNF-05|	O sistema deve ser capaz de redirecionar o usuário para as páginas de desconto escolhidas em pelo menos 10 segundos.|Média|
+|RNF-07|	O sistema deve gerar histórico de itens/descontos selecionados pelo usuário.	|Baixa|
+|RNF-08|	O sistema deve validar as transações e gerar recibos e comprovantes.	|Média|
+|RNF-09|	O sistema deverá ser Consistente e Padronizado por inteiro	|Alta|
+|RNF-10|	O sistema deve ser seguro e passar confiança para os usuário.	|Média|
+|RNF-11|	O sistema deve permitir recuperar senha através do E-mail ou Telefone celular.	|Baixa|
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -121,22 +137,20 @@ Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Cla
   correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
+
+Lembrando que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
-## Restrições
+## 2.4 - Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01|	O sistema deve ficar on-line sempre (24 horas por dia e 7 dias por semana).	|Alta|
+|02|	O sistema não deverá ter linguagens diferentes na parte da APIs.	|Média|
+|03|	O sistema deve estar em conformidade com as políticas de segurança e privacidade da empresa e com as leis e regulamentos bancários aplicáveis.	|Alta|
+|04|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
+|05|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
 
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
