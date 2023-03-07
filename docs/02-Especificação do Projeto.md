@@ -154,3 +154,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
 |05|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
 
+## 2.5 - Diagrama de Casos de Uso
+
+1. Registrar: Este caso de uso permite que um novo usuário se registre no sistema, criando uma nova conta de usuário com informações pessoais e bancárias.
+2. Login: Este caso de uso permite que um usuário registrado faça login no sistema, autenticando-se com seu nome de usuário e senha.
+3. Verificar conta: Este caso de uso permite que o usuário verifique sua conta bancária fornecendo as informações solicitadas pelo banco digital.
+4. Realizar transferência: Este caso de uso permite que o usuário transfira dinheiro de uma conta bancária para outra conta bancária, dentro ou fora do banco digital.
+5. Pagar contas: Este caso de uso permite que o usuário pague contas diretamente pelo aplicativo móvel ou pelo site do banco digital.
+6. Solicitar empréstimo: Este caso de uso permite que o usuário solicite um empréstimo pessoal com taxas de juros competitivas diretamente pelo aplicativo móvel ou pelo site do banco digital.
+7. Gerenciar empréstimos: Este caso de uso permite que o usuário gerencie seus empréstimos pessoais, incluindo visualização de saldo, pagamento de parcelas e solicitação de mudanças nos termos do empréstimo.
+8. Investir dinheiro: Este caso de uso permite que o usuário invista em fundos de índice de baixo custo diretamente pelo aplicativo móvel ou pelo site do banco digital.
+9. Programa de recompensas: Este caso de uso permite que o usuário participe de um programa de recompensas, com descontos em produtos e serviços relevantes para estudantes universitários, como livros e cursos online.
+10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
+
+
