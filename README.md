@@ -16,8 +16,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Hugo César Candian Ferreira
 * Pedro Victor de Souza Fidelis
 
-
-
 ## Orientador
 
 * Carlos Alberto Marques Pietrobon
