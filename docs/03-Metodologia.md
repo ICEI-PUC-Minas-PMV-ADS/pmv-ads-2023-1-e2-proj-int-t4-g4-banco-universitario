@@ -100,7 +100,7 @@ Usando [draw.io](https://diagrams.net):
 >
 >Abra o site https://diagrams.net; ou faça download pelo [Link](https://github.com/jgraph/drawio-desktop/releases)
 >
->Faça [Download](../docs/UML/casos-de-uso-bancoUni.drawio) do nosso arquivo `.drawio`;
+>Faça [Download](../docs/UML/) do nosso arquivo `.drawio`;
 >
 >Vá em `Start now` >>> `Abrir diagrama existente`
 
