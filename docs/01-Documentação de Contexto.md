@@ -1,43 +1,47 @@
-# Introdução
+# 1 - Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o avanço da tecnologia cada vez mais acessível  e recorrente no cenário mundial, onde estudos publicados pela FGV apontam que existe, apenas no Brasil, mais de um smartphone por habitante (MEIRELLES, 2022). As buscas por praticidades e facilidades através da tecnologia estão cada vez mais recorrentes no nosso cotidiano, uma vez que em um passado não muito distante as tarefas e ações  que antes poderiam ser lentas e burocráticas, hoje com os avanços tecnológicos podem ser executadas muitas das vezes com apenas alguns cliques (MEIRELLES, 2022).
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Graças aos  avanços tecnológicos, muitos dos problemas que existiam no passado recente, como uso de papéis para impressão de notícias, informações, dados e dentre outras coisas, foram renovados e trocados por um sistema tecnológico prático. Onde antes informações que levariam um processo lento para serem repassadas até a conclusão de suas impressões, hoje podem ser armazenadas e aliadas com a  praticidade da tecnologia, beneficiando tanto quem irá oferecer essa praticidade tecnológica, como também seus usuários em questão.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A tecnologia expandiu o pensamento nas mais diversas áreas de negócios. No setor bancário, como as Fintechs, os sistemas computacionais estão sendo cada vez mais implementados. Um exemplo disso, são os aplicativos mais diversos de bancos que facilitam a vida das pessoas, agilizando o processo de pagamento, de visualização de extratos bancários e outras infinitas aplicações.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+
+## 1.1 - Problema
+Como a utilização de um sistema de banco digital pode facilitar o dia a dia dos estudantes brasileiros, proporcionando melhor versatilidade na entrega de oportunidades financeiras voltadas a esse público em específico?
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
-## Objetivos
+## 1.2 - Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste projeto é desenvolver um sistema de banco virtual voltado para estudantes. Criando a ligação entre eles e empresas que estejam dispostas a disponibilizar descontos voltados exclusivamente para esse segmento.
+- Os objetivos específicos desse sistema são: 
+    - Oferecer aos usuários uma aplicação versátil, leve e rápida;
+    - Automatização de processos bancários; 
+    - Permitir aos usuários acesso às funcionalidades do banco; 
+    - Disponibilizar para os usuários descontos diversos focados no público     universitário do país;
+    - Disponibilizar um aplicativo web que possa ser acessado em qualquer dispositivo a partir de um navegador de internet. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
-## Justificativa
+## 1.3 - Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+As condições financeiras da maioria dos universitários são limitadas, principalmente porque são jovens desprovidos de emprego e que buscam uma primeira oportunidade de estágio ou a própria inserção no mercado de trabalho. Em um mundo globalizado, de repentina transformação digital, transferências gratuitas como pix, cartão de crédito e pequenos empréstimos são ferramentas facilitadoras para esses jovens no mundo de negócios. 	
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Destarte, os serviços oferecidos pela fintech precisam ser financeiramente acessíveis para esse público. A manutenção da conta sem taxas e o cartão de crédito sem anuidades são alguns exemplos. Diferentemente de um banco tradicional, uma Fintech não precisa de muitos funcionários, nem agências físicas espalhadas pelo país, pois têm  seu funcionamento pautado no meio eletrônico, o que traz uma redução drástica nos seus custos. A eficiência vem consoante com a tecnologia (OLIVEIRA; 2019).
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
-## Público-Alvo
+## 1.4 - Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O público alvo deste projeto são estudantes maiores de 18 anos que se interessem por uma ferramenta bancária prática e repleta de benefícios e descontos exclusivos para o segmento estudantil.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
