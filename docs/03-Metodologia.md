@@ -57,6 +57,7 @@ A equipe está organizada da seguinte maneira:
     - Geraldo Homero do Couto Neto
     - Hugo César Candian Ferreira
     - Pedro Victor de Souza Fidelis
+    - Cláudio Lopes Coelho Barroso
 - `Equipe de Design`
     - Diana Santiago Oliveira dos Santos
 
