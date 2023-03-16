@@ -175,5 +175,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 9. Programa de recompensas: Este caso de uso permite que o usuário participe de um programa de recompensas, com descontos em produtos e serviços relevantes para estudantes universitários, como livros e cursos online.
 10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
 
-![casos-de-uso](./img/casos-de-uso-bancoUni.jpg)
+![casos-de-uso](./img/casos-de-uso.drawio.png)
 <p align="center"> Casos de uso do projeto - feito com a ferramenta draw.io</p>
