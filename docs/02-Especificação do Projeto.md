@@ -98,7 +98,7 @@ Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Clas
  (RF)`: correspondem a uma funcionalidade que deve estar presente na
   plataforma (ex: cadastro de usuário).
 - `Requisitos Não Funcionais
-  (RNF)`: correspondem a uma característica técnica, seja de usabilidade,
+  (RF)`: correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
 
@@ -122,6 +122,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-08| O sistema deve permitir a solicitação de cartão de cŕedito.|Baixa|
 |RF-09| O sistema deve permitir realizar pagamento de contas diversas por meio de boleto bancário ou PIX.|Média|
 |RF-10|O sistema deve disponibilizar aplicativo e/ou site para o acesso dos usuários.|Alta|
+|Esses estavam na parte de Requisitos n funcionais| \\/\\/\\/\\/|
+|RF-11|	O sistema deve fornecer descrição de cada produto/desconto selecionado pelo usuário.|	Baixa|
+|RF-12|  Os produtos/descontos devem ser separados por categorias.	|Média|
+|RF-13|	Usuários sem confirmação de estudantes devem ter acesso a descontos diferentes aos de estudantes	|Alta|
+|RF-14|	O sistema deve estar em conformidade com as regulamentações bancárias locais.	|Alta|
+|RF-15|	O sistema deve gerar histórico de itens/descontos selecionados pelo usuário.	|Baixa|
+|RF-16|	O sistema deve validar as transações e gerar recibos e comprovantes.	|Média|
+|RF-17|	O sistema deve permitir recuperar senha através do E-mail ou Telefone celular.	|Baixa|
 
 
 
@@ -129,16 +137,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01|	O sistema deve fornecer descrição de cada produto/desconto selecionado pelo usuário.|	Baixa|
-|RNF-02|  Os produtos/descontos devem ser separados por categorias.	|Média|
-|RNF-03|	Usuários sem confirmação de estudantes devem ter acesso a descontos diferentes aos de estudantes	|Alta|
-|RNF-04|	O sistema deve estar em conformidade com as regulamentações bancárias locais.	|Alta|
-|RNF-05|	O sistema deve ser capaz de redirecionar o usuário para as páginas de desconto escolhidas em pelo menos 10 segundos.|Média|
-|RNF-07|	O sistema deve gerar histórico de itens/descontos selecionados pelo usuário.	|Baixa|
-|RNF-08|	O sistema deve validar as transações e gerar recibos e comprovantes.	|Média|
-|RNF-09|	O sistema deverá ser Consistente e Padronizado por inteiro	|Alta|
-|RNF-10|	O sistema deve ser seguro e passar confiança para os usuário.	|Média|
-|RNF-11|	O sistema deve permitir recuperar senha através do E-mail ou Telefone celular.	|Baixa|
+|RNF-01| O sistema deverá ser Consistente e Padronizado por inteiro	|Alta|
+|RNF-02| O sistema deve ser capaz de redirecionar o usuário para as páginas de desconto escolhidas em pelo menos 10 segundos.|Média|
+|RNF-04| O sistema deve ser feito utilizando .NET Core em sua versão mais recente e estável	|Média|
+|RNF-04| O software deve ser compatível com os principais browsers do mercado - Firefox, Chrome, Edge, Safari, Brave, etc.|Alta|
+|RNF-05| O software deve ter um tempo de retorno para as consultas de até 10 segundos.|Média|
+|RNF-06| O sistema deve ser capaz de rodar em diversos tamanhos de tela.|Alta|
+|Esses estavam na parte de RESTRIÇÕES|\\/\\/\\/\\/\\/|
+|RNF-00|	O sistema deve ficar on-line sempre (24 horas por dia e 7 dias por semana).	|Alta|
+|RNF-00|	O sistema não deverá ter linguagens diferentes na parte da APIs.	|Média|
+|RNF-00|	O sistema deve estar em conformidade com as políticas de segurança e privacidade da empresa e com as leis e regulamentos bancários aplicáveis.	|Alta|
+|RNF-00|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
+|RNF-00|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
 
 ## 2.4 - Restrições
 
@@ -146,12 +156,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01|	O sistema deve ficar on-line sempre (24 horas por dia e 7 dias por semana).	|Alta|
-|02|	O sistema não deverá ter linguagens diferentes na parte da APIs.	|Média|
-|03|	O sistema deve estar em conformidade com as políticas de segurança e privacidade da empresa e com as leis e regulamentos bancários aplicáveis.	|Alta|
-|04|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
-|05|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
-
+|01| O projeto deverá ser finalizado até o dia 19/06/2023|
+|02| A equipe de desenvolvimento deve contar com 6 (seis) desenvolvedores|
+|03| Deve haver ao menos 1 (uma) pessoa responsável pelo design do sistema|
+|04| A equipe não pode trabalhar no projeto por mais de 4 (quatro) horas por dia|
+|05| Deve haver pelo menos 1 (uma) reunião geral por semana, com duração de até 2 (duas) horas|
+|06| 
 ## 2.5 - Diagrama de Casos de Uso
 
 1. Registrar: Este caso de uso permite que um novo usuário se registre no sistema, criando uma nova conta de usuário com informações pessoais e bancárias.
