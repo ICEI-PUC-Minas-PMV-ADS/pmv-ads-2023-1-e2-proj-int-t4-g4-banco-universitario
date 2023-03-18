@@ -94,11 +94,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
 
-- `Requisitos Funcionais
- (RF)`: correspondem a uma funcionalidade que deve estar presente na
+- `Requisitos Funcionais (RF)`: correspondem a uma funcionalidade que deve estar presente na
   plataforma (ex: cadastro de usuário).
-- `Requisitos Não Funcionais
-  (RF)`: correspondem a uma característica técnica, seja de usabilidade,
+- `Requisitos Não Funcionais (RNF)`: correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
 
@@ -176,4 +174,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
 
 ![casos-de-uso](./img/casos-de-uso.drawio.png)
-<p align="center"> Casos de uso do projeto - feito com a ferramenta draw.io</p>
+<p align="center"> Figura 1 - Casos de uso do projeto - feito com a ferramenta draw.io</p>
