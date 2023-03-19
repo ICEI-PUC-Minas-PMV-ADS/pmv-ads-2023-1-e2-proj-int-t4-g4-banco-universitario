@@ -140,11 +140,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-04| O software deve ser compatível com os principais browsers do mercado - Firefox, Chrome, Edge, Safari, Brave, etc.|Alta|
 |RNF-05| O software deve ter um tempo de retorno para as consultas de até 10 segundos.|Média|
 |RNF-06| O sistema deve ser capaz de rodar em diversos tamanhos de tela.|Alta|<!-- -->
-|RNF-00|	O sistema deve ficar on-line sempre (24 horas por dia e 7 dias por semana).	|Alta|
-|RNF-00|	O sistema não deverá ter linguagens diferentes na parte da APIs.	|Média|
-|RNF-00|	O sistema deve estar em conformidade com as políticas de segurança e privacidade da empresa e com as leis e regulamentos bancários aplicáveis.	|Alta|
-|RNF-00|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
-|RNF-00|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
+|RNF-07|	O sistema deve ficar on-line sempre (24 horas por dia e 7 dias por semana).	|Alta|
+|RNF-08|	O sistema não deverá ter linguagens diferentes na parte da APIs.	|Média|
+|RNF-09|	O sistema deve estar em conformidade com as políticas de segurança e privacidade da empresa e com as leis e regulamentos bancários aplicáveis.	|Alta|
+|RNF-10|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
+|RNF-11|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
 
 ## 2.4 - Restrições
 
