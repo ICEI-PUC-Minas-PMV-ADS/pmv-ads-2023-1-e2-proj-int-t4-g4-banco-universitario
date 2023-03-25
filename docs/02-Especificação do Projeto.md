@@ -110,23 +110,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01|O sistema deve permitir que o usuário realize o cadastro.|Alta|
-|RF-02| O sistema deve permitir ao usuário criar uma conta junto ao banco.|Alta| 
-|RF-03| O sistema deve permitir ao usuário fazer transações bancárias essenciais.|Alta|
-|RF-04| O sistema deve permitir o encerramento da conta.|Alta|
-|RF-05|O sistema deve disponibilizar lista de descontos e suas respectivas empresas para os estudantes devidamente cadastrados no sistema.|Alta|
-|RF-06| O sistema deve permitir ao usuário fazer transferência entre contas de bancos diferentes.|Média|
-|RF-07| O sistema deve permitir a solicitação de empréstimo.|Baixa| 
-|RF-08| O sistema deve permitir a solicitação de cartão de cŕedito.|Baixa|
-|RF-09| O sistema deve permitir realizar pagamento de contas diversas por meio de boleto bancário ou PIX.|Média|
-|RF-10|O sistema deve disponibilizar aplicativo e/ou site para o acesso dos usuários.|Alta| <!-- -->
-|RF-11|	O sistema deve fornecer descrição de cada produto/desconto selecionado pelo usuário.|	Baixa|
-|RF-12|  Os produtos/descontos devem ser separados por categorias.	|Média|
-|RF-13|	Usuários sem confirmação de estudantes devem ter acesso a descontos diferentes aos de estudantes	|Alta|
-|RF-14|	O sistema deve estar em conformidade com as regulamentações bancárias locais.	|Alta|
-|RF-15|	O sistema deve gerar histórico de itens/descontos selecionados pelo usuário.	|Baixa|
-|RF-16|	O sistema deve validar as transações e gerar recibos e comprovantes.	|Média|
-|RF-17|	O sistema deve permitir recuperar senha através do E-mail ou Telefone celular.	|Baixa|
+|RF-01|O sistema deve permitir que o usuário realize o cadastro informando a instituição de ensino.|Alta|
+|RF-02|O sistema deve permitir através de uma barra de buscas que os usuários procurem por descontos específicos.|Alta|
+|RF-03|O sistema deve pedir confirmação do usuário caso ele utilize um desconto que o sistema não tenha acesso direto. |Alta|
+|RF-04|O sistema deve separar os descontos por categorias|Alta|
+|RF-05|O sistema deve destacar parceiros|Alta|
+|RF-06|O sistema deve gerar histórico de itens/descontos selecionados pelo usuário.|Média|
+|RF-07|O sistema deve permitir recuperar senha através do E-mail ou Telefone celular (SMS).|Baixa| 
+|RF-08|O sistema deve exibir descontos diferenciados para estudantes verificados.|Baixa|
+|RF-09|O sistema deve permitir o usuário se tornar verificado através envio do comprovante de matrícula.|Média|
+|RF-10|O sistema deve disponibilizar aplicativo e/ou site para o acesso dos usuários.|Alta|
+|RF-11|O sistema deve fornecer descrição de cada produto/desconto e o link para redirecionamento.|	Baixa|
+<!-- em construção e ajuste -->
+
+
+
+
+
 
 
 
