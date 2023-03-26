@@ -12,7 +12,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Cláudio Lopes Coelho Barroso
 * Diana Santiago Oliveira dos Santos
-* Elísia Resende Valim Ferrari
 * Geraldo Homero do Couto Neto
 * Hugo César Candian Ferreira
 * Pedro Victor de Souza Fidelis
