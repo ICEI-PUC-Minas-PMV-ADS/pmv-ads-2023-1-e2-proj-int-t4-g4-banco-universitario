@@ -170,5 +170,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 9. Programa de recompensas: Este caso de uso permite que o usuário participe de um programa de recompensas, com descontos em produtos e serviços relevantes para estudantes universitários, como livros e cursos online.
 10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
 
-![casos-de-uso](./img/casos-de-uso.drawio.png)
+![Casos de uso UML](https://user-images.githubusercontent.com/70844369/228079251-fd26a47a-fbb2-48d4-9c70-82aa75f1323a.png)
 <p align="center"> Figura 1 - Casos de uso do projeto - feito com a ferramenta draw.io</p>
