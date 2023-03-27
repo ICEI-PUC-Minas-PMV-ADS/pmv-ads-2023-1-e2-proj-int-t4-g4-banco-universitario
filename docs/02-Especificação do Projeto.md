@@ -89,7 +89,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Julia Truliety |  ||
 |Julia Truliety |Descontos em passagens áreas|para realizar o sonho de visitar seu filho no Canadá|
 |Enzo Eduardo |ter acesso a programas de forma mais acessível para as atividades da faculdade |para realizar trabalhos e seminários|
-|Enzo Eduardo |||
+|Enzo Eduardo |Descobrir jogos com descontos|poder gastar menos com seu hobbie|
 
 ## 2.3 - Requisitos
 
