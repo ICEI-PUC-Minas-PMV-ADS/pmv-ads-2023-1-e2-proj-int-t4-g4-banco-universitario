@@ -78,18 +78,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`   |
 |--------------------|------------------------------------|--------------------------|
-|João Astolfindo| conseguir economizar com tarifas bancárias e ter acesso a descontos de estudantes| para guardar dinheiro para os livros do próximo semestre |
-|João Astolfindo | Ter a visibilidade do saldo em conta e gastos realizados em tempo real| gerenciar meus rendimentos de forma eficiente|
-|João Astolfindo | Ter a possibilidade de solicitar empréstimos | para ter maior segurança financeira no momento da transição de carreira.|
-|João Astolfindo |Realizar pagamento de boleto|efetuar de forma simples o pagamento das suas principais contas de consumo|
-|Ana Carolina|Visualizar de forma simples todos os lançamentos feitos em conta |gerenciar e manter registro das vendas de cosméticos.|
-|Ana Carolina|Poder solicitar empréstimo a juros compatíveis com o mercado financeiro|para enfrentar os momentos mais complicados financeiramente.|
-|Ana Carolina|Filtrar o histórico de transações nos  últimos 30 dias |para fazer o controle de todas as entradas e saídas no mês e fazer a programação de gastos para o próximo mês.|
-|Ana Carolina|Fechar e visualizar os detalhes da conta|agilizar o tempo de finalização e pagamento do atendimento recebido.|
-|Julia Truliety |Realizar transferências internacionais |enviar dinheiro para meu filho que mora no Canadá|
+|João Astolfindo| conseguir acessar descontos para estudantes |poder escolher entre eles |
+|João Astolfindo | Ver se a marca que eu gosto tem descontos exclusivamente para estudantes| poder adquirir seus serviços premium|
+|João Astolfindo | Descobrir novas marcas | possam disponibilizar tempo de testes gratuitos em suas ferramentas e/ou softwares|
+|João Astolfindo |Poder navegar pelas categorias de desconto|encontrar coisas novas|
+|Ana Carolina|Poder indicar empresas que oferecem descontos para estudantes que não estão na plataforma |para outras pessoas poderem utilizar|
+|Ana Carolina|Filtrar o histórico de descontos visitados/utilizados | fazer o controle de todos os sites visitados|
+|Ana Carolina|Gostaria de, caso redirecionada para a página do desconto selecionado, poder confirmar ou não que utilizou o desconto |para manter um histórico ainda mais atualizado|
+|Ana Carolina|||
+|Julia Truliety |  ||
 |Julia Truliety |Descontos em passagens áreas|para realizar o sonho de visitar seu filho no Canadá|
-|Enzo Eduardo |Conseguir utilizar cartão de cŕedito online para compras de jogos pela internet |comprar pela internet de forma segura|
-|Enzo Eduardo |Receber transferências bancárias de pessoas em outras contas e/ou bancos|para que sua mesada chegue até ele.|
+|Enzo Eduardo |ter acesso a programas de forma mais acessível para as atividades da faculdade |para realizar trabalhos e seminários|
+|Enzo Eduardo |||
+
 ## 2.3 - Requisitos
 
 Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
@@ -124,12 +125,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 <!-- em construção e ajuste -->
 
 
-
-
-
-
-
-
 ### 2.3.2 - Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -158,17 +153,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| A equipe não pode trabalhar no projeto por mais de 4 (quatro) horas por dia|
 |05| Deve haver pelo menos 1 (uma) reunião geral por semana, com duração de até 2 (duas) horas|
 ## 2.5 - Diagrama de Casos de Uso
-
-1. Registrar: Este caso de uso permite que um novo usuário se registre no sistema, criando uma nova conta de usuário com informações pessoais e bancárias.
-2. Login: Este caso de uso permite que um usuário registrado faça login no sistema, autenticando-se com seu nome de usuário e senha.
-3. Verificar conta: Este caso de uso permite que o usuário verifique sua conta bancária fornecendo as informações solicitadas pelo banco digital.
-4. Realizar transferência: Este caso de uso permite que o usuário transfira dinheiro de uma conta bancária para outra conta bancária, dentro ou fora do banco digital.
-5. Pagar contas: Este caso de uso permite que o usuário pague contas diretamente pelo aplicativo móvel ou pelo site do banco digital.
-6. Solicitar empréstimo: Este caso de uso permite que o usuário solicite um empréstimo pessoal com taxas de juros competitivas diretamente pelo aplicativo móvel ou pelo site do banco digital.
-7. Gerenciar empréstimos: Este caso de uso permite que o usuário gerencie seus empréstimos pessoais, incluindo visualização de saldo, pagamento de parcelas e solicitação de mudanças nos termos do empréstimo.
-8. Investir dinheiro: Este caso de uso permite que o usuário invista em fundos de índice de baixo custo diretamente pelo aplicativo móvel ou pelo site do banco digital.
-9. Programa de recompensas: Este caso de uso permite que o usuário participe de um programa de recompensas, com descontos em produtos e serviços relevantes para estudantes universitários, como livros e cursos online.
-10. Configurações de perfil: Este caso de uso permite que o usuário atualize suas informações pessoais e preferências de comunicação.
 
 ![Casos de uso UML](https://user-images.githubusercontent.com/70844369/228079251-fd26a47a-fbb2-48d4-9c70-82aa75f1323a.png)
 
