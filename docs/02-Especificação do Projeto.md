@@ -157,3 +157,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![Casos de uso UML](https://user-images.githubusercontent.com/70844369/228079251-fd26a47a-fbb2-48d4-9c70-82aa75f1323a.png)
 
 Figura 1 - Casos de uso do projeto - feito com a ferramenta draw.io
+
+
+### Usando [draw.io](https://diagrams.net):
+>
+>Abra o site https://diagrams.net; ou faça download pelo [Link](https://github.com/jgraph/drawio-desktop/releases)
+>
+>Faça [Download](../docs/UML/) do nosso arquivo `.drawio`;
+>
+>Vá em `Start now` >>> `Abrir diagrama existente`
