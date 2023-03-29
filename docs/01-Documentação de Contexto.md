@@ -27,4 +27,6 @@ Os descontos para estudantes são oferecidos em muitos lugares - em restaurantes
 O público alvo deste projeto são estudantes universitários maiores de 18 anos que se interessem por uma ferramenta bancária prática e repleta de benefícios e descontos exclusivos para o segmento.
 
 ***
+MEIRELLES, Fernando de Souza. 33ª Pesquisa Anual do FGVcia: uso da TI nas Empresas. *FVGcia*, 2022. Disponível em:https://eaesp.fgv.br/producao-intelectual/pesquisa-anual-uso-ti. Acesso: 16/09/2022.
+
 RUSHTON, Michael. How student discounts work. *artsJournal*, 2013. Disponível em: https://www.artsjournal.com/worth/2013/05/how-student-discounts-work/ Acesso: 10/03/2023.
