@@ -6,7 +6,7 @@
 
 `2º SEMESTRE - 2023.1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo de nosso projeto é facilitar e encurtar o caminho entre estudantes e descontos/ofertas concedidas a eles por empresas de diferentes setores.
 
 ## Integrantes
 
