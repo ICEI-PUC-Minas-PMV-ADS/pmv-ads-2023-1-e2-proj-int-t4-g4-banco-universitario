@@ -80,7 +80,7 @@ As relações de trabalho serão desenvolvidas em home office, e as entregas ser
 |--------|----------|--------------|
 |Editores de Código| VSCode e Visual Studio Community| https://code.visualstudio.com/ e https://visualstudio.microsoft.com/|
 |Repositório|Github|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t04-g4-banco-universitario|
-|Projeto de interface, wireframes e UML|MarvelApp e draw.io|https://marvelapp.com/prototype/71eh8dc|
+|Projeto de interface, wireframes e UML|Figma e draw.io|https://figma.com|
 |Gerenciamento do projeto|Trello e Teams| https://trello.com/b/DaT7e2zl/projeto-desconto-estudante |
 
 
