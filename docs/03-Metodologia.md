@@ -1,5 +1,5 @@
 
-# 3 - Metodologia
+# Metodologia
 
 A metodologia define as ferramentas utilizadas pela equipe. Inicialmente criamos projetos utilizando as seguintes ferramentas: Trello e Teams para gerenciamento do projeto; Github para servir de repositório e versionador de código fonte; Google Docs para edição do relatório de forma paralela e integrada com a equipe; MarvelApp para desenvolvimento do projeto de interfaces.
 
@@ -12,7 +12,7 @@ As entregas serão separadas em sprint de 1 semana, em relação a cada requisit
 A cada etapa de desenvolvimento serão realizados os testes funcionais do sistema, com a validação do cliente, conforme a documentação do escopo do projeto.
 
 
-## 3.1 - Controle de Versão
+## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
@@ -41,9 +41,9 @@ etiquetas:
 > - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 > - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
-## 3.2 - Gerenciamento de Projeto
+## Gerenciamento de Projeto
 
-### 3.2.1 - Divisão de Papéis
+### Divisão de Papéis
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. 
 
@@ -60,7 +60,7 @@ A equipe está organizada da seguinte maneira:
 - `Equipe de Design`
     - Diana Santiago Oliveira dos Santos
 
-### 3.3 - Processo
+### Processo
 
 Para a organização da equipe e a distribuição de tarefas foi escolhido o Trello, que se encontra estruturado da seguinte maneira:
 
@@ -72,7 +72,7 @@ Para a organização da equipe e a distribuição de tarefas foi escolhido o Tre
 ![Trello](./img/trello-grupo.png)
 <p align="center"> Tela do ambiente Trello usado pelo grupo</p>
 
-### 3.4 - Ferramentas
+### Ferramentas
 
 As relações de trabalho serão desenvolvidas em home office, e as entregas serão feitas por sprint com a realização de cerimônias ágeis aos moldes do `Scrum`, um framework para gerência de software com ênfase primária no desenvolvimento de software. 
 
