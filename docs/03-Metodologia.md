@@ -84,5 +84,5 @@ As relações de trabalho serão desenvolvidas em home office, e as entregas ser
 |Gerenciamento do projeto|Trello e Teams| https://trello.com/b/DaT7e2zl/projeto-desconto-estudante |
 
 
-O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `draw.io` e `MarvelApp` por melhor captar as necessidades da nossa solução.
+O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `draw.io` e `Figma` por melhor captar as necessidades da nossa solução.
 
