@@ -1,10 +1,10 @@
-# 2 - Especificações do Projeto
+# Especificações do Projeto
 
 
 Levantamos a necessidade da criação de um sistema que atendesse às demandas financeiras de estudantes e universitários. Os membros da equipe passaram alguns dias em estabelecimentos a fim de entender, através de observações e entrevistas, quais eram os problemas enfrentados no dia a dia de um estudante universitário no que diz respeito a sua vida financeira e seus desejos em conseguir descontos especiais em empresas e softwares diversos. 
 
 
-## 2.1 - Personas
+## Personas
 
 ***
 
@@ -72,7 +72,7 @@ Levantamos a necessidade da criação de um sistema que atendesse às demandas f
 
 ***
 
-## 2.2 - Histórias de Usuários
+## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
@@ -91,7 +91,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Enzo Eduardo |ter acesso a programas de forma mais acessível para as atividades da faculdade |para realizar trabalhos e seminários|
 |Enzo Eduardo |Descobrir jogos com descontos|poder gastar menos com seu hobbie|
 
-## 2.3 - Requisitos
+## Requisitos
 
 Com base nas Histórias de Usuário, enumeramos os requisitos da solução. Classificando esses requisitos em dois grupos:
 
@@ -107,7 +107,7 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### 2.3.1 - Requisitos Funcionais
+### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -125,7 +125,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 <!-- em construção e ajuste -->
 
 
-### 2.3.2 - Requisitos não Funcionais
+### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
@@ -141,7 +141,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-10|	O sistema deve ser acessível para todos os usuários, independentemente de suas habilidades e deficiências seguindo as diretrizes de acessibilidade da Web (WCAG).|	Média|
 |RNF-11|	Por padrão, o sistema não deverá repassar informações para plataformas externas. Somente as autorizadas pelo usuário.	|Média|
 
-## 2.4 - Restrições
+## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
