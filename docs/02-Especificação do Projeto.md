@@ -154,7 +154,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |05| Deve haver pelo menos 1 (uma) reunião geral por semana, com duração de até 2 (duas) horas|
 ## 2.5 - Diagrama de Casos de Uso
 
-![NovoUMLCasosDeUso drawio](https://user-images.githubusercontent.com/70844369/228082374-a9e0e9bd-15f3-4706-b920-4a4a81712f6e.png)
+![diagramaCasosDeUsoUML](https://user-images.githubusercontent.com/70844369/229308033-84ef1ccc-50bc-4f2b-acf7-c16ce11d632a.png)
 
 Figura 1 - Casos de uso do projeto - feito com a ferramenta draw.io
 
