@@ -24,7 +24,10 @@ Os descontos para estudantes são oferecidos em muitos lugares - em restaurantes
 
 ## Público-Alvo
 
-O público alvo deste projeto são estudantes universitários maiores de 18 anos que se interessem por uma ferramenta bancária prática e repleta de benefícios e descontos exclusivos para o segmento.
+O público alvo deste projeto são estudantes universitários maiores de 18 anos que se interessem por uma ferramenta prática e repleta de benefícios e descontos exclusivos para eles.
+No Brasil, segundo dados do MEC, existem cerca de 8,6 milhões de estudantes de graduação matriculados em ensino superior, sendo que 24,6% deles estão em instituições públicas. Destes estudantes, apenas 686 mil estagiam (7,9%). 
+
+Estes dados refletem na limitação financeira que a maioria enfrenta, tendo em vista que mais de 80% da população brasileira está inserida nas classes C, D e E de acordo com os dados do IBGE no último senso realizado em 2022.
 
 ***
 MEIRELLES, Fernando de Souza. 33ª Pesquisa Anual do FGVcia: uso da TI nas Empresas. *FVGcia*, 2022. Disponível em:https://eaesp.fgv.br/producao-intelectual/pesquisa-anual-uso-ti. Acesso: 16/09/2022.
