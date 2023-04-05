@@ -19,7 +19,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-![image](https://user-images.githubusercontent.com/79220860/229640190-7a96d82a-96c4-47a6-a007-bfdd3d42bc62.png)
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/79220860/229956206-fa232741-37a2-48dc-beb0-bac447152687.png)
 
 
 ## Projeto da Base de Dados
