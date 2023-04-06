@@ -1,8 +1,6 @@
 # Especificações do Projeto
 
-
 Levantamos a necessidade da criação de um sistema que atendesse às demandas financeiras de estudantes e universitários. Os membros da equipe passaram alguns dias em estabelecimentos a fim de entender, através de observações e entrevistas, quais eram os problemas enfrentados no dia a dia de um estudante universitário no que diz respeito a sua vida financeira e seus desejos em conseguir descontos especiais em empresas e softwares diversos. 
-
 
 ## Personas
 
@@ -124,7 +122,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-11|O sistema deve fornecer descrição de cada produto/desconto e o link para redirecionamento.|	Baixa|
 <!-- em construção e ajuste -->
 
-
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
@@ -157,7 +154,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ![diagramaCasosDeUsoUML](https://user-images.githubusercontent.com/70844369/229308033-84ef1ccc-50bc-4f2b-acf7-c16ce11d632a.png)
 
 Figura 1 - Casos de uso do projeto - feito com a ferramenta draw.io
-
 
 ### Usando [draw.io](https://diagrams.net):
 >
