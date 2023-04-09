@@ -15,11 +15,6 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ![diagramaDeFluxoUsuario](https://user-images.githubusercontent.com/70844369/229928655-145488d3-b0ee-4f1c-b8e3-d58421674fd0.png)
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
-
 ## User flow
 
 <img width="872" alt="fluxo_usuario" src="https://user-images.githubusercontent.com/114538688/230772266-334c1608-5c60-4a34-bc2c-182cb4aa70b7.png">
