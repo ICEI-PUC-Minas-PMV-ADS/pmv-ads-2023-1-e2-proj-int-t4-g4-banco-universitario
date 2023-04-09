@@ -23,8 +23,11 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 ## Wireframes
 
 De acordo com o fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas apresentam 3 grandes blocos, descritos a seguir. São eles:
+
 • Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e a barra de pesquisa;
+
 • Conteúdo - apresenta o conteúdo da tela em questão;
+
 • Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo como botão de perfil, histórico e salvos.
 
 Abaixo apresentamos as princiapais telas:
