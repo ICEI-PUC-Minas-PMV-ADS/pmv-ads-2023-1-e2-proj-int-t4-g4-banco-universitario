@@ -22,7 +22,15 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 
 ## Wireframes
 
+De acordo com o fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas apresentam 3 grandes blocos, descritos a seguir. São eles:
+• Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e a barra de pesquisa;
+• Conteúdo - apresenta o conteúdo da tela em questão;
+• Barra lateral - apresenta os elementos de navegação secundária, geralmente associados aos elementos do bloco de conteúdo como botão de perfil, histórico e salvos.
+
+Abaixo apresentamos as princiapais telas:
+
 Tela criar conta
+
 
 <img width="411" alt="criar_conta" src="https://user-images.githubusercontent.com/114538688/230769926-547c0156-30ee-447b-aba3-3b337281552e.png">
 
@@ -30,11 +38,6 @@ Tela de Login
 
 <img width="411" alt="entre" src="https://user-images.githubusercontent.com/114538688/230770328-5d4b12c2-727e-403b-9e87-d40e86d2fd14.png">
 
-
-## Wireframes Interativo
-
-
-https://www.figma.com/proto/nebCBrzX5y7RcGolife9pd/Untitled?node-id=23-511&scaling=contain&page-id=0%3A1&starting-point-node-id=17%3A425
 
 Tela de perfil
 
@@ -45,3 +48,7 @@ Tela de Buscas
 <img width="411" alt="realiza_buscas" src="https://user-images.githubusercontent.com/114538688/230769959-221e02b5-b6fa-4d02-ab3e-804b6c4d90e6.png">
 
 
+## Wireframes Interativo
+
+
+https://www.figma.com/proto/nebCBrzX5y7RcGolife9pd/Untitled?node-id=23-511&scaling=contain&page-id=0%3A1&starting-point-node-id=17%3A425
