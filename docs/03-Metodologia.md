@@ -11,7 +11,6 @@ As entregas serão separadas em sprint de 1 semana, em relação a cada requisit
 
 A cada etapa de desenvolvimento serão realizados os testes funcionais do sistema, com a validação do cliente, conforme a documentação do escopo do projeto.
 
-
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -83,6 +82,4 @@ As relações de trabalho serão desenvolvidas em home office, e as entregas ser
 |Projeto de interface, wireframes e UML|Figma e draw.io|https://figma.com|
 |Gerenciamento do projeto|Trello e Teams| https://trello.com/b/DaT7e2zl/projeto-desconto-estudante |
 
-
 O `VSCode` e o `Visual Studio Community` foram escolhidos porque eles possuem uma integração com o sistema de versão. As ferramentas de comunicação (`Trello` e `Teams`) utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos `draw.io` e `Figma` por melhor captar as necessidades da nossa solução.
-
