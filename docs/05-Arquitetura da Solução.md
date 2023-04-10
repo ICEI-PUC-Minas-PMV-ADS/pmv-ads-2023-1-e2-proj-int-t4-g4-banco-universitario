@@ -26,7 +26,9 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
 
-Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produtos e Empresas. A seguir temos os scripts para criação dessas tabelas/entidades no MySQL:
+Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produtos e Empresas. A seguir temos a imagem do modelo lógico com detalhes sobre as tabelas, relacionamentos, regras, metadados das colunas (tipo, tamanho, etc) seguido dos scripts para criação dessas tabelas/entidades no MySQL:
+
+![Projeto Lógico](img/C%C3%B3pia%20de%20Diagrama%20de%20Classes-PUC.png)
 
 create  table tabela_usuarios(
      nomeUsuario char(255) NOT NULL,
