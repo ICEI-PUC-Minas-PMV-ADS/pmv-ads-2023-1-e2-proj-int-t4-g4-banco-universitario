@@ -30,44 +30,6 @@ Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produto
 
 ![Projeto Lógico](img/C%C3%B3pia%20de%20Diagrama%20de%20Classes-PUC.png)
 
-create  table tabela_usuarios(
-     nomeUsuario char(255) NOT NULL,
-     email_Institucional char(255),
-     email char(255) NOT NULL,
-     instituicaoDeEnsino char(255),
-     senha char(255),
-     cpf int NOT NULL PRIMARY KEY,
-     nMatricula int,
-     estaValidado bool,
-     clicou bool,
-     dataInicio datetime,
-     enviouComprovante bool
-
-) ENGINE=storage_engine;
-
-create  table tabela_produtos(
-    idProduto int PRIMARY KEY,
-    nomeProduto varchar(255) NOT NULL,
-    descricaoProduto char(255) NOT NULL,
-    categoria char(55),
-    precoOriginal float,
-    porcentagemDesconto float,
-    link char(255)
-
-) ENGINE=storage_engine;
-
-create  table tabela_empresas(
-    cnpj int NOT NULL PRIMARY KEY ,
-    idEmpresa char(255),
-    nomeEmpresa char(255),
-    tipoNegocio char(255),
-    cepEmpresa int,
-    paisEmpresa char(55),
-    descontoExclusivo char(255),
-    inicioContratoParceria dateTime
-) ENGINE=storage_engine;
-
-
 ## Tecnologias Utilizadas
 
 As linguagens de programação utilizadas foram:
