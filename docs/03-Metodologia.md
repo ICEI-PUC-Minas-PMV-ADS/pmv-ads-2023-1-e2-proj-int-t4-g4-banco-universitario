@@ -1,13 +1,13 @@
 
 # Metodologia
 
-A metodologia define as ferramentas utilizadas pela equipe. Inicialmente criamos projetos utilizando as seguintes ferramentas: Trello e Teams para gerenciamento do projeto; Github para servir de repositório e versionador de código fonte; Google Docs para edição do relatório de forma paralela e integrada com a equipe; MarvelApp para desenvolvimento do projeto de interfaces.
+A metodologia define as ferramentas utilizadas pela equipe. Inicialmente criamos projetos utilizando as seguintes ferramentas: Trello e Teams para gerenciamento do projeto; Github para servir de repositório e versionador de código fonte; Google Docs para edição do relatório de forma paralela e integrada com a equipe; Figma e Miro para desenvolvimento do projeto de interfaces.
 
 Posteriormente, identificamos as necessidades das personas e compilamos as histórias de usuários, através da observação e entrevistas in loco.
 
-Cada usuário terá suas telas com as funcionalidades que lhes foram atribuídas, portanto, desenvolvemos o projeto das telas como, por exemplo: de login; cadastro/edição dos itens do cardápio; acompanhamento dos status dos pedidos; visualização do consumo por mesa, dentre outras.
+Cada usuário terá suas telas com as funcionalidades que lhes foram atribuídas, portanto, desenvolvemos o projeto das telas como, por exemplo: de login; tela de busca, tela de histórico e produtos/serviços salvos.
 
-As entregas serão separadas em sprint de 1 semana, em relação a cada requisitos funcional explicado na documentação, toda a estrutura estará no servidor da Microsoft Azure em questão de segurança dos dados.
+As entregas serão separadas em sprint de 1 semana, em relação a cada requisitos funcional explicado na documentação.
 
 A cada etapa de desenvolvimento serão realizados os testes funcionais do sistema, com a validação do cliente, conforme a documentação do escopo do projeto.
 
