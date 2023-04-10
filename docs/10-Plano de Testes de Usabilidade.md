@@ -15,7 +15,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Test
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
 
 
-           TESTE USABILIDADE - BANCO UNIVERSITÁRIO 
+                                              TESTE USABILIDADE - BANCO UNIVERSITÁRIO 
            
            
            1- Interface do usuário: avaliar a facilidade de uso e navegação do site, incluindo a clareza e acessibilidade dos menus, botões, links e outras funcionalidades.
