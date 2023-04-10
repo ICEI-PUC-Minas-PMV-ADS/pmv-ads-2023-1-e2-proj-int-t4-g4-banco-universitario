@@ -25,14 +25,54 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 ## Projeto da Base de Dados
 
 O projeto da base de dados corresponde à representação das entidades e relacionamentos identificadas no Modelo ER, no formato de tabelas, com colunas e chaves primárias/estrangeiras necessárias para representar corretamente as restrições de integridade.
- 
-Para mais informações, consulte o microfundamento "Modelagem de Dados".
+
+Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produtos e Empresas. A seguir temos os scripts para criação dessas tabelas/entidades no MySQL:
+
+create  table tabela_usuarios(
+     nomeUsuario char(255) NOT NULL,
+     email_Institucional char(255),
+     email char(255) NOT NULL,
+     instituicaoDeEnsino char(255),
+     senha char(255),
+     cpf int NOT NULL PRIMARY KEY,
+     nMatricula int,
+     estaValidado bool,
+     clicou bool,
+     dataInicio datetime,
+     enviouComprovante bool
+
+) ENGINE=storage_engine;
+
+create  table tabela_produtos(
+    idProduto int PRIMARY KEY,
+    nomeProduto varchar(255) NOT NULL,
+    descricaoProduto char(255) NOT NULL,
+    categoria char(55),
+    precoOriginal float,
+    porcentagemDesconto float,
+    link char(255)
+
+) ENGINE=storage_engine;
+
+create  table tabela_empresas(
+    cnpj int NOT NULL PRIMARY KEY ,
+    idEmpresa char(255),
+    nomeEmpresa char(255),
+    tipoNegocio char(255),
+    cepEmpresa int,
+    paisEmpresa char(55),
+    descontoExclusivo char(255),
+    inicioContratoParceria dateTime
+) ENGINE=storage_engine;
+
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As linguagens de programação utilizadas foram:
+C# no desenvolvimento do backend da solução;
+HTML, CSS e JavaScript no desenvolvimento do frontend da aplicação e a implementação de certas funcionalidades interativas;
+MySQL no desenvolvimento do banco de dados.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 ## Hospedagem
 
