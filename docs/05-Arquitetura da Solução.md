@@ -28,7 +28,7 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 
 Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produtos e Empresas. A seguir temos a imagem do modelo lógico com detalhes sobre as tabelas, relacionamentos, regras, metadados das colunas (tipo, tamanho, etc).
 
-![Projeto Lógico](img/C%C3%B3pia%20de%20Diagrama%20de%20Classes-PUC.png)
+![Projeto Lógico](img/imagem%20modelo%20logico%20-%20projeto%20base%20de%20dados.png)
 
 ## Tecnologias Utilizadas
 
@@ -40,7 +40,7 @@ MySQL no desenvolvimento do banco de dados.
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+A hospedagem do banco de dados será feita pelo GitHub.
 
 > **Links Úteis**:
 >
