@@ -13,10 +13,6 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamente a indicação dos principais elementos de interface - tais como menus e acessos - e funcionalidades, tais como editar, pesquisar, filtrar, configurar - e a conexão entre esses boxes a partir do processo de interação. 
 
-![diagramaDeFluxoUsuario](https://user-images.githubusercontent.com/70844369/229928655-145488d3-b0ee-4f1c-b8e3-d58421674fd0.png)
-
-## User flow
-
 <img width="872" alt="fluxo_usuario" src="https://user-images.githubusercontent.com/114538688/230772266-334c1608-5c60-4a34-bc2c-182cb4aa70b7.png">
 
 
