@@ -28,7 +28,7 @@ O projeto da base de dados corresponde à representação das entidades e relaci
 
 Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produtos e Empresas. A seguir temos a imagem do modelo lógico com detalhes sobre as tabelas, relacionamentos, regras, metadados das colunas (tipo, tamanho, etc).
 
-![Projeto Lógico](img/imagem%20modelo%20logico%20-%20projeto%20base%20de%20dados.png)
+![Cópia de Diagrama de Classes-PUC](https://user-images.githubusercontent.com/70844369/232802509-2198ade3-af0b-4a15-9eea-09d2693a42a6.png)
 
 ## Tecnologias Utilizadas
 
