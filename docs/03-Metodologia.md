@@ -41,7 +41,7 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira: 
 
-- `Scrum Master`: 
+- `Scrum Master`: Hugo César Candian Ferreira
 - `Product Owner`: Geraldo Homero do Couto Neto
 - `Equipe de Desenvolvimento`
     - Cláudio Lopes Coelho Barroso
