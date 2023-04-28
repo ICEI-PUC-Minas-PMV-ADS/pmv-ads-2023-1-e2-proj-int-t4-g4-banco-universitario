@@ -35,10 +35,13 @@ Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produto
 ### As linguagens de programação utilizadas foram:
 - `C#` no desenvolvimento do back-end da solução;
 - `HTML`, `CSS` e `JavaScript` no desenvolvimento do front-end da aplicação e a implementação de certas funcionalidades interativas;
-- `SQL` no desenvolvimento do banco de dados.
+- `SQL` no desenvolvimento do banco de dados
 
 ### Framework utilizado:
 - `ASP.NET Core (MVC)` - `.NET 6.0`
+
+### SGBD utilizado:
+- `MySQL`
 
 ## Hospedagem
 
