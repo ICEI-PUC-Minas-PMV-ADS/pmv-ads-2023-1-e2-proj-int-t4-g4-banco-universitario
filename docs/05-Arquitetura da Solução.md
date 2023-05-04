@@ -46,7 +46,7 @@ Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produto
 ## Hospedagem
 
 A hospedagem do banco de dados será feita pelo GitHub.
-
+***
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
