@@ -29,8 +29,6 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 - 2.3 Você acha que o site poderia fornecer informações mais claras sobre como usar o desconto?
 >Nível 0 (  )    .Nível 1 (  )    .Nível 2 (  )    .Nível 3 (  )      .Nível 4 (  )
 
-***
-
 ### 3 - Controle do usuário e liberdade
 - 3.1 Você se sentiu confortável com o fato de não poder cancelar a geração do desconto?
 >Nível 0 (  )    .Nível 1 (  )    .Nível 2 (  )    .Nível 3 (  )      .Nível 4 (  )
