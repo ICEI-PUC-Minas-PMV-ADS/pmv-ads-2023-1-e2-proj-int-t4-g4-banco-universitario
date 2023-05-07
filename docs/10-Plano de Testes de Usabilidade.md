@@ -80,5 +80,5 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 ### 9 Ajuda e documentação
 - 9.1 Você achou que o site ofereceu ajuda e documentação adequadas durante o processo de geração de desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 9.3 Você achou que a ajuda e documentação oferecidas eram fáceis de entender?  
+- 9.2 Você achou que a ajuda e documentação oferecidas eram fáceis de entender?  
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
