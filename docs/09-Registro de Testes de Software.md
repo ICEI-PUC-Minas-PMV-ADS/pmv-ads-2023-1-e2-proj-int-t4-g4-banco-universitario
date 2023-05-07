@@ -17,7 +17,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 |Critério de Êxito| - O site da aplicação está disponível|
 || - Os campos foram preenchidos com as devidas informações|
 || - Sucesso de login após o cadastro|
-|**Êxito no teste?**| Sim (   ) Não (   )|
+|**Êxito no teste?**| - [ ]|
+|| - [ ]|
 |Comentário||
 
 
