@@ -41,7 +41,7 @@ Os elementos chave - ou entidades - da nossa aplicação são: Usuário, Produto
 - `ASP.NET Core (MVC)` - `.NET 6.0`
 
 ### SGBD utilizado:
-- `MySQL`
+- `SQL Server`
 
 ## Hospedagem
 
