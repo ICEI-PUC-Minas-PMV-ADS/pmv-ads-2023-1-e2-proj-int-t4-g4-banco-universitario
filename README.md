@@ -1,4 +1,4 @@
-# BancoUni
+# Desconto Universitário
 
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
