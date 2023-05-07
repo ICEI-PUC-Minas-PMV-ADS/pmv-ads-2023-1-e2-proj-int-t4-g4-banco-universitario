@@ -15,7 +15,7 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 ### 1 - Visibilidade do status do sistema
 - 1.1.	Você sentiu que o site fornecia informações claras sobre o status/disponibilidade do desconto ?
 
->>>Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+>>>Nível 0 - []    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 1.2	Você conseguiu identificar facilmente o tempo médio de espera para a geração do desconto?
       . Nível 0 (  )    .Nível 1 (  )    .Nível 2 (  )    .Nível 3 (  )      .Nível 4 (  )
