@@ -1,0 +1,53 @@
+﻿@model AppDescontoUniver.Models.Empresa
+
+@{
+    ViewData["Title"] = "Relatorio";
+}
+
+<h1>Empresa: @Model.NomeDaEmpresa</h1>
+
+<div>
+    <h4>Produtos</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nome do Produto
+                </th>
+                <th>
+                    Descrição
+                </th>
+                <th>
+                    Preço
+                </th>
+                <th>
+                    Link
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Produtos)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NomeDoProduto)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Descricao)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Preco)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Link)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
