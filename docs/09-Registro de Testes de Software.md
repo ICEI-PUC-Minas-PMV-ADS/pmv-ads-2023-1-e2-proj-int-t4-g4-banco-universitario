@@ -17,8 +17,7 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 |Critério de Êxito| - O site da aplicação está disponível|
 || - Os campos foram preenchidos com as devidas informações|
 || - Sucesso de login após o cadastro|
-|**Êxito no teste?**| - [ ]|
-|| - [ ]|
+|**Êxito no teste?**| Sim (  ) Não (  )|
 |Comentário||
 
 
@@ -31,6 +30,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 |Critério de Êxito|  - Sucesso no envio do comprovante de matrícula|
 || - Usuário agora é um Usuário Verificado|
 ||- Ter acesso a descontos especiais|
+|**Êxito no teste?**| Sim (  ) Não (  )|
+|Comentário||
 
 |Caso de Teste|CT-03 – Buscar por descontos|
 |---|---|
@@ -52,6 +53,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 ||- O sistema avisa o usuário do redirecionamento|
 ||- Descontos especiais para usuários verificados estão visualmente marcados|
 ||- A descrição de cada produto está correta|
+|**Êxito no teste?**| Sim (  ) Não (  )|
+|Comentário||
 
 |Caso de Teste|CT-04 – Manusear o perfil|
 |---|---|
@@ -64,6 +67,8 @@ Para cada caso de teste definido no Plano de Testes de Software, realize o regis
 |Critério de Êxito| - O sistema permite recuperar o acesso|
 || - O histórico é gerado de forma fidedigna|
 ||- A senha é alterada com sucesso|
+|**Êxito no teste?**| Sim (  ) Não (  )|
+|Comentário||
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
