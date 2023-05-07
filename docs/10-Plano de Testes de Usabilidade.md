@@ -1,5 +1,7 @@
 # Plano de Testes de Usabilidade
 
+Este documento é uma avaliação heurística de um site gerador de descontos. A avaliação heurística é um método de avaliação de usabilidade que usa um conjunto de heurísticas ou diretrizes para identificar problemas de usabilidade. O objetivo desta avaliação é identificar os principais problemas de usabilidade do site gerador de descontos e sugerir possíveis soluções para melhorar a experiência do usuário. 
+
 |Escaka|Discriminação|
 |------|-------------|
 |Nível 0|Não é encarado necessariamente como um problema de usabilidade. |
