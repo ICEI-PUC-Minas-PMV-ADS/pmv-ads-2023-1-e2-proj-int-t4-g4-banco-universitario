@@ -1,14 +1,22 @@
 ﻿@model IEnumerable<AppDescontoUniver.Models.Usuario>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Usuários - Criar conta!";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<h1>Criar conta</h1>
+@if (User.Identity.IsAuthenticated)
+{
+        <p>Você já está logado no sistema.</p>
+}
+else
+{
+    <div>
+        <a class="btn btn-primary" asp-action="Create">Crie sua conta</a>
+    </div>
+}
+@if (User.IsInRole("Admin"))
+{
 <table class="table">
     <thead>
         <tr>
@@ -25,7 +33,7 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+    @foreach (var item in Model) {
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Nome)
@@ -42,6 +50,7 @@
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
-}
+    }
     </tbody>
 </table>
+}
