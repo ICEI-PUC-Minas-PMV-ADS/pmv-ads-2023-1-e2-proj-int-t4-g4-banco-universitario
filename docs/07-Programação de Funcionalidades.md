@@ -13,7 +13,7 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 
 ## Link de acesso
 
-https://exemplo.com/home
+https://descontouniversitario.azurewebsites.net/
 
 ## Usuários de teste:
 |Usuário (ID)|Senha|
