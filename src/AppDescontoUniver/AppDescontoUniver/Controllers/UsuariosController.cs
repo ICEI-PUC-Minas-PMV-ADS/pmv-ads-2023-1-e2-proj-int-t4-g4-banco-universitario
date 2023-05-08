@@ -12,7 +12,8 @@ using System.Security.Claims;
 
 namespace AppDescontoUniver.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    //[Authorize(Roles = "Admin")]
+    [AllowAnonymous]
     public class UsuariosController : Controller
     {
         private readonly ApplicationDbContext _context;
