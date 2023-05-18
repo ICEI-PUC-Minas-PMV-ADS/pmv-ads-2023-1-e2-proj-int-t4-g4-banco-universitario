@@ -12,7 +12,6 @@
 || - Os campos foram preenchidos com as devidas informações|
 || - Sucesso de login após o cadastro|
 
-
 |Caso de Teste|CT-02 – Aprimorar o nível de usuário|
 |---|---|
 |Requisitos Associados|RF-09 – O sistema deve permitir o usuário se tornar verificado através do envio do comprovante de matrícula|
