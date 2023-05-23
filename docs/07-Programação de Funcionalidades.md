@@ -13,12 +13,12 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 
 ## Link de acesso
 
-https://descontouniversitario.azurewebsites.net/
+https://appdescontouniver20230522215208.azurewebsites.net/
 
 ## Usuários de teste:
 |Usuário (ID)|Senha|
 |-------|-----|
-|1|12345|
-|2|12345|
+|1|1234|
+|2|1234|
 
 
