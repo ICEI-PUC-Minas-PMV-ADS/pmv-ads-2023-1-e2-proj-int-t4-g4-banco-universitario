@@ -4,11 +4,11 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 
 |Escala|Discriminação|
 |------|-------------|
-|Nível 0|Não é encarado necessariamente como um problema de usabilidade. |
-|Nível 1|Problema estético que não tem necessidade de ser corrigido, a menos que haja tempo e recurso disponível. |
-|Nível 2|Pequeno problema com baixa prioridade na correção. |
-|Nível 3| Problema com alta prioridade de correção. |
-|Nível 4|Extremo. O produto só será liberado se a correção for feita|
+**|Nível 0|Muito Fácil|**: Indica que o usuário considera a tarefa ou ação no site muito fácil de ser realizada, sem dificuldades ou confusões. |
+**|Nível 1|Relativamente Fácil|**: Indica que o usuário considera a tarefa ou ação no site relativamente fácil de ser realizada, com algumas pequenas dificuldades ou confusões que não  |
+**|Nível 2|Relativamente Difícil|**: Indica que o usuário considera a tarefa ou ação no site relativamente difícil de ser realizada, com algumas dificuldades ou confusões que afetaram a conclusão da tarefa. |
+**|Nível 3|Muito Difícil|**: Indica que o usuário considera a tarefa ou ação no site muito difícil de ser realizada, com dificuldades significativas ou confusões que impediram a conclusão da tarefa. |
+**|Nível 4|Extremo|**:Impossível executar ou fazer uso sem antes um reparo imediáto |
 
 ## Avaliação
 
@@ -17,68 +17,83 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
-- 1.2	Você conseguiu identificar facilmente o tempo médio de espera para a geração do desconto?
+- 1.2	Você percebeu alguma demora significativa  para a geração do desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
       
 ### 2 - Compatibilidade entre o sistema e o mundo real
 
 - 2.1 Você achou que a linguagem utilizada no site era fácil de entender?
->Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+>Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )>
+
 - 2.2 Você sentiu que o site forneceu informações claras sobre como usar o desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 2.3 Você acha que o site poderia fornecer informações mais claras sobre como usar o desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 3 - Controle do usuário e liberdade
 - 3.1 Você se sentiu confortável com o fato de não poder cancelar a geração do desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 3.2 Você achou que o site permitiu que você editasse suas informações pessoais durante o processo de geração de desconto?
+
+- 3.2 Você achou eficaz a forma de edição de suas informações pessoais durante o processo de geração de desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 3.3 Você acha que o site poderia oferecer mais controle e liberdade ao usuário?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 4 - Consistência e padrões
-- 4.1 Você achou que o site usou um padrão de cores e fontes consistente em todas as páginas?
+- 4.1 Você achou que o site usou um padrão de cores e fontes agradáveis  em todas as páginas?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 4.2 Você achou que o posicionamento dos botões era consistente em todas as páginas?
+
+- 4.2 Você achou que o posicionamento dos botões eram consistentes em todas as páginas?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 4.3 Você acha que o site poderia usar um padrão mais consistente de cores, fontes e posicionamento de botões?
+
+- 4.3 Você acha que o site poderia usar um outro padrão diferente de cores, fontes e posicionamento de botões?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 #### 5 - Prevenção de erros
 - 5.1 Você achou que o site forneceu feedback imediato para erros no preenchimento de formulários?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 5.2 Você recebeu uma confirmação clara de sucesso após a geração do desconto?
+
+- 5.2 Você recebeu uma notificação de confirmação objetiva após a geração do desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
-- 5.3 Você acha que o site poderia fornecer feedback melhor para erros e confirmações mais claras de sucesso?
+
+- 5.3 Você acha que o site poderia fornecer feedback melhores para erros e confirmações de modo mais claro ?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 6 - Reconhecimento em vez de lembrança
-- 6.1 Você achou que o site apresentou um resumo claro das informações que você preencheu antes da geração do desconto?
+- 6.1 Você achou que o site apresentou um layout claro das informações que você preencheu antes da geração do desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 6.2 Você achou que o site salvou suas informações preenchidas para uso futuro?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 6.3 Você acha que o site poderia apresentar informações mais claras e salvar as informações preenchidas para uso futuro? 
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 7 - Flexibilidade e eficiência de uso
 - 7.1 Você achou que o site permitiu que você realizasse as tarefas de geração de desconto de forma rápida e fácil?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 7.2 Você achou que o site poderia oferecer mais opções de personalização durante o processo de geração de desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 7.3 Você achou que o site permitiu que você voltasse atrás em uma etapa do processo de geração de desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 8 - Estética e design minimalista
 - 8.1 Você achou que o site era visualmente atraente e fácil de usar?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 8.2 Você achou que o site utilizou uma quantidade adequada de elementos visuais como imagens ?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 8.3 Você achou que o site poderia ter um design mais minimalista e limpo?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
 
 ### 9 Ajuda e documentação
 - 9.1 Você achou que o site ofereceu ajuda e documentação adequadas durante o processo de geração de desconto?
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
+
 - 9.2 Você achou que a ajuda e documentação oferecidas eram fáceis de entender?  
 >Nível 0 (  )    Nível 1 (  )    Nível 2 (  )    Nível 3 (  )      Nível 4 (  )
