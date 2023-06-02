@@ -4,11 +4,11 @@ Este documento é uma avaliação heurística de um site gerador de descontos. A
 
 |Escala|Discriminação|
 |------|-------------|
-**|Nível 0|Muito Fácil|**: Indica que o usuário considera a tarefa ou ação no site muito fácil de ser realizada, sem dificuldades ou confusões. |
-**|Nível 1|Relativamente Fácil|**: Indica que o usuário considera a tarefa ou ação no site relativamente fácil de ser realizada, com algumas pequenas dificuldades ou confusões que não  |
-**|Nível 2|Relativamente Difícil|**: Indica que o usuário considera a tarefa ou ação no site relativamente difícil de ser realizada, com algumas dificuldades ou confusões que afetaram a conclusão da tarefa. |
-**|Nível 3|Muito Difícil|**: Indica que o usuário considera a tarefa ou ação no site muito difícil de ser realizada, com dificuldades significativas ou confusões que impediram a conclusão da tarefa. |
-**|Nível 4|Extremo|**:Impossível executar ou fazer uso sem antes um reparo imediáto |
+|Nível 0|Muito Fácil|: Indica que o usuário considera a tarefa ou ação no site muito fácil de ser realizada, sem dificuldades ou confusões. |
+|Nível 1|Relativamente Fácil|: Indica que o usuário considera a tarefa ou ação no site relativamente fácil de ser realizada, com algumas pequenas dificuldades ou confusões que não  |
+|Nível 2|Relativamente Difícil|: Indica que o usuário considera a tarefa ou ação no site relativamente difícil de ser realizada, com algumas dificuldades ou confusões que afetaram a conclusão da tarefa. |
+|Nível 3|Muito Difícil|: Indica que o usuário considera a tarefa ou ação no site muito difícil de ser realizada, com dificuldades significativas ou confusões que impediram a conclusão da tarefa. |
+|Nível 4|Extremo|:Impossível executar ou fazer uso sem antes um reparo imediáto |
 
 ## Avaliação
 
