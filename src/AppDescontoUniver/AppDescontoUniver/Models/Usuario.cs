@@ -31,8 +31,8 @@ namespace AppDescontoUniver.Models
 
     public enum Perfil
     {
-        Admin,
         Usuario,
-        UsuarioVerificado
+        UsuarioVerificado,
+        Admin
     }
 }

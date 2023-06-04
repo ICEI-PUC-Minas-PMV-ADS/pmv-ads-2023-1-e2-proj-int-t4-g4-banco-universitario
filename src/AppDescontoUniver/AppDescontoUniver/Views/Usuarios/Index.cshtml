@@ -7,13 +7,11 @@
 <h1>Criar conta</h1>
 @if (User.Identity.IsAuthenticated)
 {
-        <p>Você já está logado no sistema.</p>
+    <p>Você já está logado no sistema.</p>
 }
 else
 {
-    <div>
-        <a class="btn btn-primary" asp-action="Create">Crie sua conta</a>
-    </div>
+    Context.Response.Redirect("Usuarios/Create");
 }
 @if (User.IsInRole("Admin"))
 {

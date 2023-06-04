@@ -12,7 +12,6 @@ using System.Security.Claims;
 
 namespace AppDescontoUniver.Controllers
 {
-    //[Authorize(Roles = "Admin")]
     [AllowAnonymous]
     public class UsuariosController : Controller
     {
@@ -31,10 +30,10 @@ namespace AppDescontoUniver.Controllers
 
         [HttpPost]
         [AllowAnonymous]
-        public async Task<IActionResult> Login([Bind("Id,Senha")] Usuario usuario)
+        public async Task<IActionResult> Login([Bind("Email,Senha")] Usuario usuario)
         {
             var user = await _context.Usuarios
-                .FirstOrDefaultAsync(m => m.Id == usuario.Id);
+                .FirstOrDefaultAsync(m => m.Email == usuario.Email);
 
             if (user == null)
             {
@@ -67,7 +66,7 @@ namespace AppDescontoUniver.Controllers
 
                 await HttpContext.SignInAsync(principal, propriedadesDeLogin);
 
-                return Redirect("/");
+                return Redirect("/Produtos");
 
             }
 
