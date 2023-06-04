@@ -4,58 +4,39 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Produtos e Descontos</h1>
 @if (User.IsInRole("Admin"))
 {
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 }
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.NomeDoProduto)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Descricao)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Preco)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Link)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Empresa)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.NomeDoProduto)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Descricao)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Preco)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Link)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Empresa.Cnpj)
-            </td>
-            <td>
+<div class="card-container">
+    @foreach (var item in Model)
+    {
+        <div class="card">
+            <div class="card-header">
+                <h3>@Html.DisplayFor(modelItem => item.NomeDoProduto)</h3>
+            </div>
+            <div class="card-body">
+                <p>@Html.DisplayFor(modelItem => item.Descricao)</p>
+                <p>@Html.DisplayFor(modelItem => item.Preco)</p>
+                @if (User.IsInRole("Admin"))
+                {
+                <p>@Html.DisplayFor(modelItem => item.Empresa.Cnpj)</p>
+                }
+                <div class="card-footer">
+                    <p><a href="@item.Link" class="btn btn-primary btn-block">Acesse aqui</a></p>
+                </div>
+            </div>
+            @if (User.IsInRole("Admin"))
+            {
+                <div class="card-footer">
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+            </div>
+            }
+        </div>
+    }
+</div>
