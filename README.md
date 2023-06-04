@@ -44,7 +44,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+https://appdescontouniver20230522215208.azurewebsites.net/
 
 # Armazenamento do Código-Fonte
 
