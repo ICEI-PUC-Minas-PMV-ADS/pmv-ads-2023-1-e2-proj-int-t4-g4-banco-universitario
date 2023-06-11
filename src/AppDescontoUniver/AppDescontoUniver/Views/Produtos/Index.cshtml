@@ -11,32 +11,34 @@
     <a asp-action="Create">Create New</a>
 </p>
 }
-<div class="card-container">
-    @foreach (var item in Model)
-    {
-        <div class="card">
-            <div class="card-header">
-                <h3>@Html.DisplayFor(modelItem => item.NomeDoProduto)</h3>
-            </div>
-            <div class="card-body">
-                <p>@Html.DisplayFor(modelItem => item.Descricao)</p>
-                <p>@Html.DisplayFor(modelItem => item.Preco)</p>
+<div class="container">
+    <div class="card-container row row-cols-2 row-cols-lg-4 justify-content-center">
+        @foreach (var item in Model)
+        {
+            <div class="card">
+                <div class="card-header">
+                    <h3>@Html.DisplayFor(modelItem => item.NomeDoProduto)</h3>
+                </div>
+                <div class="card-body">
+                    <p>@Html.DisplayFor(modelItem => item.Descricao)</p>
+                    <p>@Html.DisplayFor(modelItem => item.Preco)</p>
+                    @if (User.IsInRole("Admin"))
+                    {
+                    <p>@Html.DisplayFor(modelItem => item.Empresa.Cnpj)</p>
+                    }
+                    <div class="card-footer">
+                        <p><a href="@item.Link" class="btn btn-primary btn-block">Acesse aqui</a></p>
+                    </div>
+                </div>
                 @if (User.IsInRole("Admin"))
                 {
-                <p>@Html.DisplayFor(modelItem => item.Empresa.Cnpj)</p>
-                }
-                <div class="card-footer">
-                    <p><a href="@item.Link" class="btn btn-primary btn-block">Acesse aqui</a></p>
+                    <div class="card-footer">
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </div>
+                }
             </div>
-            @if (User.IsInRole("Admin"))
-            {
-                <div class="card-footer">
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </div>
-            }
-        </div>
-    }
+        }
+    </div>
 </div>
