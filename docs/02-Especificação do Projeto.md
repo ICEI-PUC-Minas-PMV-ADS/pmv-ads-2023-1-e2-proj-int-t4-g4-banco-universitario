@@ -109,7 +109,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-01|O sistema deve permitir que o usuário realize o cadastro informando a instituição de ensino.|Alta|
+|RF-01|O sistema deve permitir que o usuário realize o cadastro informando (ou não) a instituição de ensino.|Alta|
 |RF-02|O sistema deve permitir através de uma barra de buscas que os usuários procurem por descontos específicos.|Alta|
 |RF-03|O sistema deve pedir confirmação do usuário caso ele utilize um desconto que o sistema não tenha acesso direto. |Alta|
 |RF-04|O sistema deve separar os descontos por categorias|Alta|
