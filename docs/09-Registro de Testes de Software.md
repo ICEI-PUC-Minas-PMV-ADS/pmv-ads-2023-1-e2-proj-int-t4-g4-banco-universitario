@@ -1,68 +1,49 @@
 # Registro de Testes de Software
 
-## Avaliação
-
-| Caso de Uso  |  CT-01 – Cadastrar corretamente o usuário |
+| Caso de Teste  |  CT-01 – Cadastrar corretamente o usuário |
 |---|---|
-| Requisitos Associados  | RF-01 – O sistema deve permitir que o usuário realize o cadastro informando a instituição de ensino  |
-||RF-01 – O sistema deve permitir que o usuário realize o cadastro informando a instituição de ensino|
-|Objetivo do Teste|Verificar se o formulário de cadastro está aceitando corretamente todos os campos, inclusive o da instituição de ensino. Para que isso aconteça, haverá o site funcionando que permita a exibição da aplicação| 
-|Passos|1-      Acessar o navegador|
-||2-      Informar o endereço do site|
-||3-      Utilizar a funcionalidade “Crie sua conta”|
+|Objetivo do Teste|Verificar se o formulário de cadastro está aceitando corretamente todos os campos e realizando o registro do usuário na base de dados.
+|Passos|1-      Acessar o navegador.|
+||2-      Informar o endereço do site.| 
+||3-      Utilizar a funcionalidade “Registrar” no canto superior direito da tela.|
+||4-      Fazer login com a conta registrada.|
+||5-      Entrar na plataforma como usuário registrado.|
+|Critério de Êxito| - O site da aplicação está disponível.|
+|| - Os campos foram preenchidos com as devidas informações.|
+|| - Sucesso de login após o cadastro.|
+|**Êxito no teste?**| Sim ( x ) Não (  )|
+
+| Caso de Teste  |  CT-02 – Cadastrar corretamente a empresa |
+|---|---|
+|Objetivo do Teste|Verificar se o acesso como administrador será aceito e realizar o registro da empresa na base de dados.
+|Passos|1-      Acessar o navegador e informar o endereço do site.|
+||2-      Utilizar a funcionalidade “Login” no canto superior direito da tela e fazer acesso com a conta administrador. email: bolado@teste.com / senha: 1234|
+||3-      Entrar na plataforma como usuário administrador registrado. Acessar a opção "Empresas" no menu superior e em seguida "Create New" para realizar o cadastro de uma nova empresa na base de dados.| 
+||4-      Cadastrar a nova empresa com os dados solicitados.|
+||5-      Verificar empresa cadastrada na lista de empresas.|
 |Critério de Êxito| - O site da aplicação está disponível|
 || - Os campos foram preenchidos com as devidas informações|
-|| - Sucesso de login após o cadastro|
-|**Êxito no teste?**| Sim (  ) Não (  )|
-|Comentário||
+|| - Sucesso de login como administrador.|
+|| - Cadastro da uma nova empresa realizado com sucesso.|
+|**Êxito no teste?**| Sim ( x ) Não (  )|
 
-
-|Caso de Teste|CT-02 – Aprimorar o nível de usuário|
+| Caso de Teste | CT-03 – Cadastro de Oferta (Produto)|
 |---|---|
-|Requisitos Associados|RF-09 – O sistema deve permitir o usuário se tornar verificado através do envio do comprovante de matrícula|
-|Objetivo do Teste|Verificar se o usuário ganhará o selo verificado após o envio do comprovante de matrícula|
-|Passos|1.       Entrar no sistema como usuário já cadastrado|
-||2.       Na área do usuário, solicitar o envio do comprovante de matrícula|
-|Critério de Êxito|  - Sucesso no envio do comprovante de matrícula|
-|| - Usuário agora é um Usuário Verificado|
-||- Ter acesso a descontos especiais|
-|**Êxito no teste?**| Sim (  ) Não (  )|
-|Comentário||
+|Objetivo do Teste|Verificar se o cadastro das Ofertas/produtos estão funcionando corretamente.|
+|Passos|1-      Entrar na plataforma como usuário administrador registrado. Acessar a opção "Produtos" no menu superior e em seguida "Create New" para realizar o cadastro de uma nova oferta/produto na base de dados.| 
+||2-      Cadastrar o novo produto com os dados solicitados.|
+||3-      Verificar o novo produto cadastrado na lista dos produtos.|
+|Critério de Êxito| - O site da aplicação está disponível|
+|| - Os campos foram preenchidos com as devidas informações|
+|| - Sucesso de login como administrador.|
+|| - Cadastro da uma nova oferta/produto realizado com sucesso.|
+|**Êxito no teste?**| Sim ( x ) Não (  )|
 
-|Caso de Teste|CT-03 – Buscar por descontos|
+| Caso de Teste | CT-04 – Visualizar Ofertas|
 |---|---|
-|Requisitos Associados|RF-02 – O sistema deve permitir através de uma barra de buscas que os usuários procurem por descontos específicos|
-||RF-03 – O sistema deve pedir confirmação do usuário caso ele utilize um desconto que o sistema não tenha acesso direto|
-||RF-04 – O sistema deve separar os descontos por categorias|
-||RF-05 – O sistema deve destacar parceiros|
-||RF-08 – O sistema deve exibir descontos diferenciados para estudantes verificados|
-||RF-11 – O sistema deve fornecer descrição de cada produto/desconto e o link para redirecionamento|
-|Objetivo do Teste|Verificar todas as funcionalidades relacionadas a busca pelos descontos e como eles aparecem como retorno, assim como suas descrições e disponibilizações|
-|Passos|1.       Utilizar a barra de buscas dentro do site|
-||2.       Digitar pelo produto: “Spotify” (exemplo)|
-||3.       Selecionar a exibição por categorias|
-||4.       Se usuário verificado, visualizar descontos especiais|
-||5.       Clicar no link do desconto|
-|Critério de Êxito|- A tela de exibição de descontos destaca os parceiros|
-||- O ícone de organização por categorias funciona corretamente|
-||- A barra de buscas está retornando o que se espera|
-||- O sistema avisa o usuário do redirecionamento|
-||- Descontos especiais para usuários verificados estão visualmente marcados|
-||- A descrição de cada produto está correta|
-|**Êxito no teste?**| Sim (  ) Não (  )|
-|Comentário||
-
-|Caso de Teste|CT-04 – Manusear o perfil|
-|---|---|
-|Requisitos Associados|RF-06 – O sistema deve gerar histórico de itens/descontos selecionados pelo usuário|
-||RF-07 – O sistema deve permitir recuperar senha através do e-mail ou telefone celular (SMS)|
-|Objetivo do Teste|Verificar se está funcionando corretamente a opção dentro do perfil do usuário de gerar histórico dos itens selecionados e outras funcionalidades como mudar a senha|
-||Caso não seja possível fazer o login, verificar se o sistema permite recuperar a senha|
-|Passos|1.       É possível entrar no sistema? Não. Selecionar a opção “Recuperar Acesso”|
-||2.       Já logado no sistema, dentro do Perfil, utilizar as opções “Trocar a senha” e “Histórico de produtos”|
-|Critério de Êxito| - O sistema permite recuperar o acesso|
-|| - O histórico é gerado de forma fidedigna|
-||- A senha é alterada com sucesso|
-|**Êxito no teste?**| Sim (  ) Não (  )|
-|Comentário||
-
+|Objetivo do Teste|Verificar se a visualização da oferta está acontecendo corretamente.|
+|Passos|1.       Acessar a opção "Produtos" no menu superior e visualizar as Ofertas disponíveis.|
+||2.       Selecionar alguma das opções e verificar se o redirecionamento da página condiz com a descrição da oferta/produto.|
+|Critério de Êxito| - O site da aplicação está disponível.|
+|| - O sistema consegue direcionar o usuário para as páginas/links que possuem os descontos descritos.|
+|**Êxito no teste?**| Sim ( x ) Não (  )|
