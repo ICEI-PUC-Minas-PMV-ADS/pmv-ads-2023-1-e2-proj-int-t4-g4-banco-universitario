@@ -48,4 +48,4 @@
 || - O sistema consegue direcionar o usuário para as páginas/links que possuem os descontos descritos.|
 |**Êxito no teste?**| Sim ( x ) Não (  )|
 
-**Link para as imagens de cada caso de teste:** https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing |
+**Link para as imagens de cada caso de teste:** https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing
