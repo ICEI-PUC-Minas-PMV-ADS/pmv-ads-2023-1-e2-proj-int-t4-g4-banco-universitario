@@ -16,9 +16,10 @@ Implementação do sistema descrita por meio dos requisitos funcionais e/ou não
 https://appdescontouniver20230522215208.azurewebsites.net/
 
 ## Usuários de teste:
-|Usuário (ID)|Senha|
-|-------|-----|
-|1|1234|
-|2|1234|
+|Usuário (Email)|Senha|Perfil|
+|-------|-----|-------|
+|bolado@teste.com|1234|Admin|
+|usuario@usuario.com|1234|UsuarioVerificado|
+|alex@gmail.com|1234|Usuário|
 
 
