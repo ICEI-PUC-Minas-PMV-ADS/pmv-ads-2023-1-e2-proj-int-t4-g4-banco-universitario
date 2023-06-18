@@ -47,5 +47,3 @@
 |Critério de Êxito| - O site da aplicação está disponível.|
 || - O sistema consegue direcionar o usuário para as páginas/links que possuem os descontos descritos.|
 |**Êxito no teste?**| Sim ( x ) Não (  )|
-
-
