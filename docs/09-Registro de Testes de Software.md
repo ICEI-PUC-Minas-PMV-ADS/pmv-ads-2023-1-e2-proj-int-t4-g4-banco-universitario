@@ -50,4 +50,4 @@
 
 **Link para as imagens de cada caso de teste:** https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing |
 
-[Registro de Testes de Software](presentation/Registro de Teste de Software.pdf)
+[Registro de Testes de Software](./presentation/Registro de Teste de Software.pdf)
