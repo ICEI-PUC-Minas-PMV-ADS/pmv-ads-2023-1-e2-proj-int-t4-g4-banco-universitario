@@ -48,10 +48,7 @@
 || - O sistema consegue direcionar o usuário para as páginas/links que possuem os descontos descritos.|
 |**Êxito no teste?**| Sim ( x ) Não (  )|
 
-**Link para as imagens de cada caso de teste:** https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing
+**[Link para as imagens de cada caso de teste:]**(../presentation/Registro%20de%20Teste%20de%20Software.pdf) 
 
-<object data="../presentation/Registro%20de%20Teste%20de%20Software.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../presentation/Registro%20de%20Teste%20de%20Software.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../presentation/Registro%20de%20Teste%20de%20Software.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+//https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing
+
