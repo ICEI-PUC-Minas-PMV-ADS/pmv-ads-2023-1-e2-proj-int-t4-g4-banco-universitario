@@ -20,6 +20,6 @@ https://appdescontouniver20230522215208.azurewebsites.net/
 |-------|-----|-------|
 |bolado@teste.com|1234|Admin|
 |usuario@usuario.com|1234|UsuarioVerificado|
-|alex@gmail.com|1234|Usuário|
+|geraldo@gmail.com|1234|Usuário|
 
 
