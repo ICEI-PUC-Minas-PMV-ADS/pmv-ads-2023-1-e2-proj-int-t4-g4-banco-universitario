@@ -50,5 +50,5 @@
 
 **[Link para as imagens de cada caso de teste:](../presentation/Registro%20de%20Teste%20de%20Software.pdf)**
 
-//https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing
+[comment]: <> (https://drive.google.com/file/d/1ADfRMWIVpiWzG_wTYDDhQJ1E_Mktphbk/view?usp=sharing)
 
