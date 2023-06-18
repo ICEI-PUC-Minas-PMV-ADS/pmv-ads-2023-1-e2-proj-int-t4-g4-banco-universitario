@@ -47,3 +47,6 @@
 |Critério de Êxito| - O site da aplicação está disponível.|
 || - O sistema consegue direcionar o usuário para as páginas/links que possuem os descontos descritos.|
 |**Êxito no teste?**| Sim ( x ) Não (  )|
+
+[Registro de Teste de Software.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-g4-banco-universitario/files/11782760/Registro.de.Teste.de.Software.pdf)
+
