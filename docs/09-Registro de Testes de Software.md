@@ -1,6 +1,6 @@
 # Registro de Testes de Software
 
-**[Link para as imagens de cada caso de teste](../presentation/Registro%20de%20Teste%20de%20Software.pdf)**
+##[Link para as imagens de cada caso de teste](../presentation/Registro%20de%20Teste%20de%20Software.pdf)
 
 | Caso de Teste  |  CT-01 – Cadastrar corretamente o usuário |
 |---|---|
