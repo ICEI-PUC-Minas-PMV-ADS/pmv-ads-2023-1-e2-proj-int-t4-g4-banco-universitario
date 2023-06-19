@@ -12,7 +12,7 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-g4-banco-universitario/assets/70844369/37b948dc-ca99-4e5d-9fdd-ab537b08d23c)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-g4-banco-universitario/assets/70844369/11b6163d-f80d-4fb6-b87b-7bead2a4f2d0)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-g4-banco-universitario/assets/70844369/44cdd110-069d-4d39-ba48-db4d58deb4d1)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e2-proj-int-t4-g4-banco-universitario/assets/70844369/9084131e-83b3-47e5-b3b9-897e45635591)
 
