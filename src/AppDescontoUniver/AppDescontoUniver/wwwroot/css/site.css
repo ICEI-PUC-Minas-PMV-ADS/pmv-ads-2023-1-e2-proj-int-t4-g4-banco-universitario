@@ -24,6 +24,20 @@ a {
   border-color: #1861ac;
 }
 
+.logo-container {
+    width: 50px; /* Adjust the desired width */
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    max-width: 100%;
+    height: 120px;
+}
+
+
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
