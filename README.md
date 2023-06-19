@@ -1,5 +1,7 @@
 # Desconto Universitário
 
+![Logo](src/AppDescontoUniver/AppDescontoUniver/wwwroot/img/logo.png)
+
 `ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
 `APLICAÇÃO INTERATIVA`
