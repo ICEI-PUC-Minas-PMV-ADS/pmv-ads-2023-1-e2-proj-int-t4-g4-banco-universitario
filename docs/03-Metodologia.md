@@ -45,12 +45,11 @@ A equipe está organizada da seguinte maneira:
 - `Product Owner`: Geraldo Homero do Couto Neto
 - `Equipe de Desenvolvimento`
     - Cláudio Lopes Coelho Barroso
-    - Diana Santiago Oliveira dos Santos
     - Geraldo Homero do Couto Neto
     - Hugo César Candian Ferreira
     - Pedro Victor de Souza Fidelis
 - `Equipe de Design`
-    - Diana Santiago Oliveira dos Santos
+    - Petro Victor de Souza Fidelis
 
 ### Processo
 
