@@ -13,7 +13,6 @@ O objetivo do nosso projeto é facilitar e encurtar o caminho entre estudantes e
 ## Integrantes
 
 * Cláudio Lopes Coelho Barroso
-* Diana Santiago Oliveira dos Santos
 * Geraldo Homero do Couto Neto
 * Hugo César Candian Ferreira
 * Pedro Victor de Souza Fidelis
