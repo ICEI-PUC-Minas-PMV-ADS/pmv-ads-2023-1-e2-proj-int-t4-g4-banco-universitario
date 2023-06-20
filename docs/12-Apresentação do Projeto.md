@@ -8,4 +8,4 @@
 
 ## Identidade Visual (Marca, Design)
 
-![Logo](./src/AppDescontoUniver/AppDescontoUniver/wwwroot/img/logo.png)
+![Logo](../src/AppDescontoUniver/AppDescontoUniver/wwwroot/img/logo.png)
