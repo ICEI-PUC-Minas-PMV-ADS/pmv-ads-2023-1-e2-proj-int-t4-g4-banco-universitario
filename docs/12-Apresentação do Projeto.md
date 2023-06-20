@@ -1,6 +1,6 @@
 # Apresentação
 
-[Slide - Apresentação](../presentatio/Slides%20-%20Apresenta%C3%A7%C3%A3o.pdf)
+[Slides](../presentation/Slides - Apresentação.pdf)
 
 ## Título do Projeto
 
