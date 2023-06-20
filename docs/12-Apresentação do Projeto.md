@@ -1,10 +1,4 @@
-# Apresentação
-
-[Slides](../presentation/Slides - Apresentação.pdf)
-
-## Título do Projeto
-
-### DescontoUniversitário
+# DescontoUniversitário
 
 ## Identidade Visual (Marca, Design)
 
